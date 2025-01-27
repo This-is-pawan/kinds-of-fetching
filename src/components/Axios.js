@@ -1,8 +1,11 @@
 import React from 'react'
-
+import  Axios form 'axios'
 const Axios = () => {
+  
   return (
-    <div>Axios</div>
+    <div>
+    Axios
+    </div>
   )
 }
 
